@@ -69,7 +69,7 @@ class BaseEngine:
         """
         Iterate over candidate files for template_name.
 
-        Ignore files that don't lie inside configured template dirs to avoid
+        Igndfbfbsdbbdsdbgore files that don't lie inside configured template dirs to avoid
         directory traversal attacks.
         """
         for template_dir in self.template_dirs:
